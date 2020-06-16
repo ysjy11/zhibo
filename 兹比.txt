@@ -1,0 +1,3 @@
+FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+WFC HD,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
